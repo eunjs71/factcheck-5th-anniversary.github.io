@@ -6,14 +6,43 @@
 
 #header {
   border-bottom: 1px solid #e8e8e8;
+  height: 75px;
 }
 .header__inner {
   display: flex;
   justify-content: center;
   align-items: center;
 }
+.header__inner__logo {
+  margin-top: 7.5px;
+  width: 188px;
+}
 .header__inner__logo__image {
   width: 100%;
+}
+
+.masthead {
+  width: 100%;
+}
+.masthead__banner {
+  height: 68%;
+  background-color: #f1f1f1;
+}
+.masthead__banner__inner {
+  width: 80%;
+  margin: 0 auto;
+}
+.masthead__banner__inner__title {
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 1.46;
+  color: #242426;
+}
+.masthead__banner__inner__desc {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #242426;
 }
 
 @media (min-width: 1200px) {
@@ -23,5 +52,27 @@
   .header__inner__logo {
     margin-top: 7.5px;
     width: 188px;
+  }
+
+  .masthead__banner {
+    height: 980px;
+    background-color: #f1f1f1;
+  }
+  .masthead__banner__inner {
+    width: 1140px;
+  }
+  .masthead__banner__inner__title {
+    margin-top: 100px;
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 1.46;
+    color: #242426;
+  }
+  .masthead__banner__inner__desc {
+    margin-top: 24px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #242426;
   }
 }
