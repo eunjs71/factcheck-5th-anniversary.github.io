@@ -58,10 +58,30 @@
 .masthead__links__item {
   width: 50%;
   border: solid 1px #e8e8e8;
+}
+.masthead__links__item__inner {
+  width: 570px;
+  padding-right: 0px auto;
   display: flex;
   flex-direction: column;
 }
-.masthead__links__item__name {
+.masthead__links__item__inner__name {
+  padding-top: 55px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #242426;
+}
+.masthead__links__item__inner__title {
+  padding-top: 20px;
+  font-size: 32px;
+  font-weight: bold;
+  color: #242426;
+}
+.masthead__links__item__inner__desc {
+  font-size: 16px;
+  color: #909090;
+  padding-top: 16px;
+  padding-bottom: 53px;
 }
 
 @media (min-width: 1200px) {
