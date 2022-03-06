@@ -85,6 +85,46 @@
   padding-bottom: 53px;
 }
 
+.stat-cards {
+  margin-top: 80px;
+  width: 1140px;
+}
+.stat-cards__col {
+}
+.stat-cards__col__card {
+}
+.stat-cards__col__card__img {
+  height: 240px;
+}
+.stat-cards__col__card__body {
+  height: 180px;
+  padding: 20px 16px;
+}
+.stat-cards__col__card__body__title {
+  font-size: 14px;
+  color: #242426;
+}
+.stat-cards__col__card__body__title {
+  display: flex;
+  align-items: center;
+}
+.stat-cards__col__card__body__title__text {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1;
+  letter-spacing: -0.4px;
+}
+.stat-cards__col__card__body__title__arrow {
+  width: 16px;
+  height: 16px;
+  margin-left: auto;
+}
+.stat-cards__col__card__body__desc {
+  font-size: 16px;
+  letter-spacing: -0.4px;
+  color: #909090;
+}
+
 @media (min-width: 1200px) {
   #header {
     height: 75px;
