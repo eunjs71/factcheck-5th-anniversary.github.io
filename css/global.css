@@ -61,7 +61,7 @@
 }
 .masthead__links__item__inner {
   width: 570px;
-  padding-right: 0px auto;
+  margin-right: 0px auto;
   display: flex;
   flex-direction: column;
 }
