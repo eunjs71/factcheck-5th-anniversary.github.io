@@ -101,13 +101,15 @@
   height: 180px;
   padding: 20px 16px;
 }
-.stat-cards__col__card__body__title {
+.stat-cards__col__card__body__category {
   font-size: 14px;
   color: #242426;
+  margin-bottom: 16px;
 }
 .stat-cards__col__card__body__title {
   display: flex;
   align-items: center;
+  margin-bottom: 16px;
 }
 .stat-cards__col__card__body__title__text {
   font-size: 20px;
