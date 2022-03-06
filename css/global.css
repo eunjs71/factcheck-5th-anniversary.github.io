@@ -32,13 +32,15 @@
   width: 80%;
   margin: 0 auto;
 }
-.masthead__banner__inner__title {
+.masthead__banner__inner__title__p {
+  margin-top: 100px;
   font-size: 48px;
   font-weight: bold;
   line-height: 1.46;
   color: #242426;
 }
-.masthead__banner__inner__desc {
+.masthead__banner__inner__desc__p {
+  margin-top: 24px;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.5;
@@ -61,14 +63,14 @@
   .masthead__banner__inner {
     width: 1140px;
   }
-  .masthead__banner__inner__title {
+  .masthead__banner__inner__title__p {
     margin-top: 100px;
     font-size: 48px;
     font-weight: bold;
     line-height: 1.46;
     color: #242426;
   }
-  .masthead__banner__inner__desc {
+  .masthead__banner__inner__desc__p {
     margin-top: 24px;
     font-size: 20px;
     font-weight: 500;
