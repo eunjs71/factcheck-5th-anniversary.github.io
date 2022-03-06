@@ -7,9 +7,21 @@
 #header {
   border-bottom: 1px solid #e8e8e8;
 }
+.header__inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 @media (min-width: 1200px) {
   #header {
     height: 75px;
+  }
+  .header__inner__logo {
+    margin-top: 7.5px;
+    width: 188px;
+  }
+  .header__inner__logo__image {
+    width: 100%;
   }
 }
