@@ -12,9 +12,6 @@
   justify-content: center;
   align-items: center;
 }
-.header__inner__logo__image2x {
-  display: none;
-}
 .header__inner__logo__image {
   width: 100%;
 }
@@ -26,14 +23,5 @@
   .header__inner__logo {
     margin-top: 7.5px;
     width: 188px;
-  }
-}
-
-@media only screen and (min-resolution: 2) {
-  .header__inner__logo__image {
-    display: none;
-  }
-  .header__inner__logo__image2x {
-    width: 100%;
   }
 }
