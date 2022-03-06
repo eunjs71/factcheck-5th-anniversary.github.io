@@ -3,3 +3,13 @@
 * {
   font-family: "Spoqa Han Sans Neo", "sans-serif";
 }
+
+#header {
+  border-bottom: 1px solid #e8e8e8;
+}
+
+@media (min-width: 1200px) {
+  #header {
+    height: 75px;
+  }
+}
