@@ -63,11 +63,14 @@
 .masthead__links__item__blank {
   display: flex;
   flex-direction: row-reverse;
+  width: 100%;
+  max-width: 720px;
 }
 .masthead__links__item__inner {
   width: 570px;
   display: flex;
   flex-direction: column;
+  margin-left: 0 auto;
 }
 .masthead__links__item__inner__name {
   padding-top: 55px;
