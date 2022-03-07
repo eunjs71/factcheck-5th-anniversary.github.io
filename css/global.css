@@ -4,6 +4,10 @@
   font-family: "Spoqa Han Sans Neo", "sans-serif";
 }
 
+p {
+  margin-bottom: 0;
+}
+
 #header {
   border-bottom: 1px solid #e8e8e8;
   height: 75px;
