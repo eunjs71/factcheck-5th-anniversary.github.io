@@ -61,7 +61,8 @@
   display: flex;
 }
 .masthead__links__item__blank {
-  max-width: 150px;
+  display: flex;
+  flex-direction: row-reverse;
 }
 .masthead__links__item__inner {
   width: 570px;
