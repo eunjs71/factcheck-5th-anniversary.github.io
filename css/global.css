@@ -59,7 +59,9 @@
   width: 50%;
   border: solid 1px #e8e8e8;
   display: flex;
-  flex-direction: row-reverse;
+}
+.masthead__links__item__blank {
+  max-width: 150px;
 }
 .masthead__links__item__inner {
   width: 570px;
