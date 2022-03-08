@@ -105,6 +105,9 @@ p {
   width: 80%;
   margin: 0 auto;
 }
+.stat__title {
+  margin-bottom: 50px;
+}
 .stat__title p {
   font-size: 32px;
   font-weight: bold;
