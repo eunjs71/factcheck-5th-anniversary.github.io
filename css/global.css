@@ -187,7 +187,6 @@ a {
 }
 .detail__head {
   margin-top: 24px;
-  margin-bottom: 30px;
 }
 .detail__head__title {
   margin-bottom: 50px;
@@ -202,6 +201,12 @@ a {
   font-size: 16px;
   line-height: 1.75;
   color: #242426;
+}
+.detail__content {
+  margin: 30px 0px;
+}
+.detail__content__item {
+  margin: 50px 0px;
 }
 
 @media (min-width: 1200px) {
