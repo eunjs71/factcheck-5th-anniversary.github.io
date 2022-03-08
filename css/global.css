@@ -164,6 +164,13 @@ p {
   color: #909090;
 }
 
+/* business */
+.categoryBadge {
+  padding: 3px 10px;
+  border-radius: 30px;
+  border: solid 1px #909090;
+}
+
 @media (min-width: 1200px) {
   #header {
     height: 75px;
