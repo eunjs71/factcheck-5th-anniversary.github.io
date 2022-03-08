@@ -234,7 +234,25 @@ a {
 .detail__content_item__paragraph__year p {
   font-weight: bold;
 }
-
+.detail__content__item__text {
+  width: 546px;
+  margin-top: 24px;
+}
+.detail__content__item__text p {
+  font-size: 16px;
+  line-height: 1.75;
+  color: #242426;
+}
+.detail__content__item__text_referece {
+  color: #909090;
+}
+.detail__content__item__pressimg {
+  width: 788px;
+  height: 310px;
+  margin-top: 40px;
+  margin-bottom: 60px;
+  border: 1px solid gray;
+}
 @media (min-width: 1200px) {
   #header {
     height: 75px;
