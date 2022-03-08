@@ -215,6 +215,7 @@ a {
   color: #242426;
 }
 .detail__content_item__flex {
+  margin-top: 24px;
   display: flex;
 }
 .detail__content_item__block {
@@ -225,6 +226,7 @@ a {
 .detail__content_item__paragraph {
   display: flex;
   flex-direction: column;
+  margin-bottom: 30px;
   font-size: 16px;
   line-height: 1.75;
   color: #242426;
