@@ -172,6 +172,7 @@ a {
 
 .detail__container {
   width: 1140px;
+  margin: 0 auto;
 }
 .detail__categoryBadge {
   margin-top: 60px;
