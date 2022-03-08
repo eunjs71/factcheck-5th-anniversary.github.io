@@ -269,7 +269,11 @@ a {
   height: 213px;
   border: 1px solid gray;
 }
-
+.detail__content__item__fcnumimg {
+  width: 415px;
+  height: 249px;
+  margin-top: 40px;
+}
 @media (min-width: 1200px) {
   #header {
     height: 75px;
