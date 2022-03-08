@@ -208,6 +208,30 @@ a {
 .detail__content__item {
   margin: 50px 0px;
 }
+.detail__content__item__subtitle p {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.4;
+  color: #242426;
+}
+.detail__content_item__flex {
+  display: flex;
+}
+.detail__content_item__block {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+.detail__content_item__paragraph {
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #242426;
+}
+.detail__content_item__paragraph__year p {
+  font-weight: bold;
+}
 
 @media (min-width: 1200px) {
   #header {
