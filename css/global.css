@@ -301,6 +301,9 @@ a {
   width: 100%;
   border: 1px solid gray;
 }
+.h325 {
+  height: 325px;
+}
 .detail__content__item__txtimg__image__cap p {
   font-size: 14px;
   line-height: 2;
