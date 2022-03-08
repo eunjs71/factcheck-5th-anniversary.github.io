@@ -292,7 +292,7 @@ a {
   color: #242426;
 }
 .detail__content__item__txtimg__image {
-  width: 610;
+  width: 610px;
   margin-left: auto;
   display: flex;
   flex-direction: column;
