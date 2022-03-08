@@ -47,6 +47,7 @@ p {
 }
 .masthead__banner__inner__desc {
   padding-top: 24px;
+  width: 484px;
 }
 .masthead__banner__inner__desc__p {
   font-size: 20px;
@@ -94,7 +95,6 @@ p {
   color: #242426;
 }
 .masthead__links__item__inner__desc {
-  width: 484px;
   font-size: 16px;
   color: #909090;
   padding-top: 16px;
