@@ -253,6 +253,23 @@ a {
   margin-bottom: 60px;
   border: 1px solid gray;
 }
+.detail__content__item__naverflex {
+  display: flex;
+}
+.detail__content__item__naverflex__left {
+  width: 50%;
+}
+.detail__content__item__naverflex__right {
+  width: 50%;
+  padding-left: 86px;
+  padding-top: 6px;
+}
+.detail__content__item__naverimg {
+  width: 482px;
+  height: 213px;
+  border: 1px solid gray;
+}
+
 @media (min-width: 1200px) {
   #header {
     height: 75px;
