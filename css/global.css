@@ -169,14 +169,18 @@ a {
 }
 
 /* business */
-.categoryBadge {
+
+.detail__container {
+  width: 1140px;
+}
+.detail__categoryBadge {
   margin-top: 60px;
   display: inline-block;
   padding: 3px 10px;
   border-radius: 30px;
   border: solid 1px #909090;
 }
-.categoryBadge__p {
+.detail__categoryBadge__p {
   font-size: 16px;
   color: #909090;
 }
