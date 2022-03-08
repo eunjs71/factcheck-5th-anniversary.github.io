@@ -171,10 +171,7 @@ a {
 /* business */
 .categoryBadge {
   margin-top: 60px;
-}
-.bizCategoryBadge {
-  width: 86px;
-  height: 26px;
+  display: inline-block;
   padding: 3px 10px;
   border-radius: 30px;
   border: solid 1px #909090;
