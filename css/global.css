@@ -170,9 +170,18 @@ a {
 
 /* business */
 .categoryBadge {
+  margin-top: 60px;
+}
+.bizCategoryBadge {
+  width: 86px;
+  height: 26px;
   padding: 3px 10px;
   border-radius: 30px;
   border: solid 1px #909090;
+}
+.categoryBadge__p {
+  font-size: 16px;
+  color: #909090;
 }
 
 @media (min-width: 1200px) {
