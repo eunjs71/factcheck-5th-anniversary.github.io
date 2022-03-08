@@ -180,6 +180,24 @@ a {
   font-size: 16px;
   color: #909090;
 }
+.detail__head {
+  margin-top: 24px;
+  margin-bottom: 30px;
+}
+.detail__head__title {
+  margin-bottom: 50px;
+}
+.detail__head__title p {
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 0.68;
+  color: #242426;
+}
+.detail__head__desc p {
+  font-size: 16px;
+  line-height: 1.75;
+  color: #242426;
+}
 
 @media (min-width: 1200px) {
   #header {
