@@ -281,7 +281,6 @@ a {
 .detail__content__item__txtimg {
   display: flex;
   padding-top: 40px;
-  padding-bottom: 50px;
 }
 .detail__content__item__txtimg__text {
   width: 460px;
@@ -290,6 +289,9 @@ a {
   font-size: 16px;
   line-height: 1.75;
   color: #242426;
+}
+.detail__content__item__txtimg__text_link {
+  color: #2370fd;
 }
 .detail__content__item__txtimg__image {
   width: 610px;
@@ -301,8 +303,20 @@ a {
   width: 100%;
   border: 1px solid gray;
 }
+.h244 {
+  height: 244px;
+}
+.h284 {
+  height: 284px;
+}
+.h290 {
+  height: 290px;
+}
 .h325 {
   height: 325px;
+}
+.detail__content__item__txtimg__image__cap {
+  padding-top: 8px;
 }
 .detail__content__item__txtimg__image__cap p {
   font-size: 14px;
